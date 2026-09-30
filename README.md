@@ -6,7 +6,6 @@
 
 ## 현재 상태
 - university student
-- capstone design
 - love kanade
 
 ---
