@@ -1,6 +1,6 @@
 # 👋 Hi, I'm RINK
 
-> “Just Enjoy What You Want”  
+> “明日は月曜日です”  
 
 <img src="https://i.imgur.com/IUhLC2J.png" width="180"/>
 
